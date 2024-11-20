@@ -1,4 +1,4 @@
-# Youtube Clone - Fullstack
+# Youtube Clone 
 using React JS | Material UI | Rapid API
 
 ## Available Scripts
