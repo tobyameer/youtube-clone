@@ -1,11 +1,11 @@
 # Youtube Clone
-Youtube clone using React JS | Rapid API | Material UI
+Youtube clone using React JS | Rapid API | Material UI.
 
 ## Core Packages
-Styling - Material UI
-React Router - Routing
-Network calls - Axios
-Video player - Videojs
+1. Styling - Material UI
+2. React Router - Routing
+3. Network calls - Axios
+4. Video player - Videojs
 
 ## Video uploads
-Fetching videos with Rapid API
+Fetching videos with Rapid API.
