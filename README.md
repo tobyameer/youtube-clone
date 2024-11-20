@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Youtube Clone - Fullstack
+using React JS | Material UI | Rapid API
 
 [https://tobyameer.github.io/youtube-clone/] (click here to go to webiste!!)
 
